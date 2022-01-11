@@ -26,3 +26,5 @@ git remote add origin repository_URL
 Step 8: Push the changes in your local repository to GitHub.
 
 git push origin master
+
+git push -f origin master
