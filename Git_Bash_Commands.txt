@@ -9,12 +9,14 @@ Step 2: Initialize the local directory as a Git repository.
 Step 3: Stage the files for the first commit by adding them to the local repository
 
 git add .
+//For specific files adding
+git add [some file name]
 
 Step 4: By “git status” you can see the staged files
 
 Step 5: Commit the files that you’ve staged in your local repository.
 
-git commit -m "First commit"
+git commit -m "remote repo added"
 
 Push files to your Git repository
 Step 6: Go to Github repository and in code section copy the URL.
