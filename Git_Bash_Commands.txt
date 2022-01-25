@@ -2,6 +2,12 @@ Step 1: Open Git Bash and change the current working directory to your local pro
    
 cd newRepo/
 
+Optional to create Git Ignore File which will ignore the files not to be pushed by your requirements:
+
+```
+touch .gitignore
+```
+
 Step 2: Initialize the local directory as a Git repository.
 
  git init 
