@@ -35,4 +35,4 @@ Step 8: Push the changes in your local repository to GitHub.
 
 git push origin master
 
-git push -f origin master
+git push -u origin master
